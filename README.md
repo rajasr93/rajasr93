@@ -23,10 +23,9 @@ Digital Forensics
 Malware Analysis
 Social Engineering
 </li>
-
+<br />
 <br />
 🛠 Skills:
-<br />
 Programming: Python, C, Java
 <br />
 Tools: Wireshark, Metasploit, Kali Linux, Nmap, Nessus, NIST SP 800-53
