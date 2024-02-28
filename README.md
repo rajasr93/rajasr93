@@ -15,16 +15,19 @@ Hello! I'm a dedicated and passionate Cybersecurity major, deeply fascinated by 
 👨‍💻 Tech Interests:
 
 Network Security
+Pentesting
+Vulnerability Assessment
 Ethical Hacking
 Cryptography
 Digital Forensics
 Malware Analysis
+Social Engineering
 
 <br />
 🛠 Skills:
 
 Programming: Python, C, Java
-Tools: Wireshark, Metasploit, Kali Linux, Burp Suite
+Tools: Wireshark, Metasploit, Kali Linux, Nmap, Nessus, NIST SP 800-53
 Platforms: Linux, Windows
 
 <br />
@@ -32,8 +35,9 @@ Platforms: Linux, Windows
 🌱 I’m currently learning:
 
 Advanced Penetration Testing
-Cybersecurity Frameworks (NIST, ISO 27001)
+Splunk
 Cloud Security
+AI in Cyberseucirty
 
 <br />
 
