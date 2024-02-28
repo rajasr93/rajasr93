@@ -13,7 +13,7 @@ Hello! I'm a dedicated and passionate Cybersecurity major, deeply fascinated by 
 <br />
 
 👨‍💻 Tech Interests:
-
+<li>
 Network Security
 Pentesting
 Vulnerability Assessment
@@ -22,6 +22,7 @@ Cryptography
 Digital Forensics
 Malware Analysis
 Social Engineering
+</li>
 
 <br />
 🛠 Skills:
@@ -36,12 +37,12 @@ Platforms: Linux, Windows
 <br />
 
 🌱 I’m currently learning:
-
+</li>
 Advanced Penetration Testing
 Splunk
 Cloud Security
 AI in Cyberseucirty
-
+</li>
 <br />
 
 🔍 Looking for:
