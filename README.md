@@ -83,5 +83,3 @@ Tips on staying updated with cybersecurity trends
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>
-
-<div align = "center">Visit me @ my <a href = "https://rishx11.vercel.app/" target="_blank">Personal website</a></div>
