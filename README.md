@@ -33,7 +33,6 @@ Tools: Wireshark, Metasploit, Kali Linux, Nmap, Nessus, NIST SP 800-53
 Platforms: Linux, Windows
 <br />
 
-<br />
 
 🌱 I’m currently learning:
 </li>
