@@ -25,10 +25,13 @@ Social Engineering
 
 <br />
 🛠 Skills:
-
+<br />
 Programming: Python, C, Java
+<br />
 Tools: Wireshark, Metasploit, Kali Linux, Nmap, Nessus, NIST SP 800-53
+<br />
 Platforms: Linux, Windows
+<br />
 
 <br />
 
