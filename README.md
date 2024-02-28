@@ -10,6 +10,8 @@ Hello! I'm a dedicated and passionate Cybersecurity major, deeply fascinated by 
 </picture>
 
 
+<br />
+
 👨‍💻 Tech Interests:
 
 Network Security
@@ -17,35 +19,39 @@ Ethical Hacking
 Cryptography
 Digital Forensics
 Malware Analysis
+
+<br />
 🛠 Skills:
 
 Programming: Python, C, Java
 Tools: Wireshark, Metasploit, Kali Linux, Burp Suite
 Platforms: Linux, Windows
+
+<br />
+
 🌱 I’m currently learning:
 
 Advanced Penetration Testing
 Cybersecurity Frameworks (NIST, ISO 27001)
 Cloud Security
+
+<br />
+
 🔍 Looking for:
 
 Collaborations on open-source cybersecurity projects
 Internship opportunities to apply my skills in real-world scenarios
 Networking with cybersecurity professionals and fellow students
+
+<br />
+
 💬 Ask me about:
 
 Starting in cybersecurity
 My latest project on securing home networks
 Tips on staying updated with cybersecurity trends
-📫 How to reach me:
 
-GitHub: @[YourGitHubUsername]
-LinkedIn: [YourLinkedInProfile]
-Email: your.email@example.com
-🌐 Portfolio: [YourPortfolioWebsite]
-
-📚 Favorite Quote:
-"Security is always excessive until it's not enough." — Robbie Sinclair
+<br />
 
 # My technical Skills
 
@@ -67,13 +73,13 @@ Email: your.email@example.com
 ### **Contact**
 
 <div align="center">
-<a href="https://www.linkedin.com/in/rishabh-sharma-06b4a3188/" target="_blank">
+<a href="https://www.linkedin.com/in/rajas-ronghe93/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
- <a href="https://instagram.com/rishx11" target="_blank">
+ <a href="https://instagram.com/rajasr93" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a> 
-<a href="https://github.com/ris3abh" target="_blank">
+<a href="https://github.com/rajasr93" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>
